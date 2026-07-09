@@ -136,7 +136,6 @@ The cleaned dataset was transformed into an interactive Excel dashboard that ena
 
 ## Author
 
-Your Name
+Shivani Meshram
 
-GitHub:
-LinkedIn:
+GitHub:https://github.com/shivanimeshram11/Sales_analytics_dashboard
