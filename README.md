@@ -122,8 +122,7 @@ Sales_Analytics_Dashboard/
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard/dashbo)
-
+![Sales Dashboard](./dashboard/dashboard.png)
 
 
 
